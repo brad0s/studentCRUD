@@ -25,5 +25,4 @@ Columns:
 Run `ByuhTestApplication.java` as java application
 
 ## End Result
-(screenshot_home.png)
-
+![screenshot](screenshot_home.png)
